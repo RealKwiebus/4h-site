@@ -133,3 +133,13 @@ footer a:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     border-radius: 8px;
 }
+
+#rufus-img-2 {
+    width: 128px;
+    height: 128px;
+    float: right;
+    margin-top: -160px;
+    margin-right: 450px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
